@@ -1,0 +1,87 @@
+body {
+    background-color: aliceblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+
+.nutrition_li {
+    margin-top: 13px;
+}
+
+.nutrition_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img {
+    border-radius: 25px;
+}
+
+.nutrition_li p {
+    margin-top: 10px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+#lili {
+    height: 778px;
+    width: 47%;
+    margin-right: 30px;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 55px;
+}
+
+#li {
+    height: 780px;
+    margin-bottom: 20px;
+    width: 47%;
+    margin-right: 30px;
+    border-color: black;
+    border-width: 2px;
+}
+
+#image1 {
+    width: 500px;
+}
+
+#image2 {
+    width: 500px;
+}
+
+#p1 {
+    padding-top: 30px;
+}
+
+#p2 {
+    padding-top: 30px;
+}
+
+#h31 {
+    margin-bottom: -42px;
+}
+
+#h32 {
+    margin-right: 190px;
+}
+
+#map {
+    margin-top: 20px;
+}
